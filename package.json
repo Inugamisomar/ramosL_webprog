@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "ramos-web",
+=======
+  "name": "surname-client",
+>>>>>>> 75ab88e7b9c8eb7a0447947462389bc44c8052e9
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,8 +15,12 @@
   },
   "dependencies": {
     "react": "^19.2.4",
+<<<<<<< HEAD
     "react-dom": "^19.2.4",
     "react-router-dom": "^7.13.2"
+=======
+    "react-dom": "^19.2.4"
+>>>>>>> 75ab88e7b9c8eb7a0447947462389bc44c8052e9
   },
   "devDependencies": {
     "@eslint/js": "^9.39.4",
